@@ -1,0 +1,20 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 24 September 2023 15:01:49 (UTC)
+# Number of unique domains: 136,916
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+#=====================================
+# Title: Hosts contributed by Flash Black
+# http://flashnet.ps
+
+0.0.0.0 129.154.215.251
+0.0.0.0 162.240.212.39
