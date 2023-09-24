@@ -16,5 +16,7 @@
 # Title: Hosts contributed by Flash Black
 # http://flashnet.ps
 
+129.154.215.251 localhost
+162.240.212.39 localhost
 0.0.0.0 129.154.215.251
 0.0.0.0 162.240.212.39
